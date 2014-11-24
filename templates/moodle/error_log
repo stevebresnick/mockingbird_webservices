@@ -1,0 +1,761 @@
+[29-Oct-2014 18:50:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 50
+[29-Oct-2014 18:50:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 84
+[29-Oct-2014 18:50:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 101
+[29-Oct-2014 18:50:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 153
+[29-Oct-2014 18:50:29 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 206
+[29-Oct-2014 18:51:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 18:51:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 18:51:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 18:51:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 18:51:11 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 18:55:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 18:55:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 18:55:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 18:55:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 18:55:16 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 18:55:58 America/Chicago] PHP Warning:  require_once(../Session.php): failed to open stream: No such file or directory in /home4/sbresnic/public_html/services/templates/variables.php on line 2
+[29-Oct-2014 18:55:58 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../Session.php' (include_path='.:/opt/php54/lib/php') in /home4/sbresnic/public_html/services/templates/variables.php on line 2
+[29-Oct-2014 18:57:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 18:57:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 18:57:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 18:57:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 18:57:29 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 18:58:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 18:58:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 18:58:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 18:58:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 18:58:31 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 18:59:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 18:59:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 18:59:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 18:59:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 18:59:12 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 18:59:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 18:59:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 18:59:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 18:59:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 18:59:39 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 19:00:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 19:00:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 19:00:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 19:00:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 19:00:42 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 19:02:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 19:02:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 19:02:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 19:02:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 19:02:21 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 19:05:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 19:05:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 19:05:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 19:05:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 19:05:02 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 19:09:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 19:09:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 19:09:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 19:09:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 19:09:04 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 19:09:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 49
+[29-Oct-2014 19:09:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 19:09:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 19:09:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 19:09:34 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 19:21:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 19:21:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 19:21:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 19:21:45 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 19:22:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 83
+[29-Oct-2014 19:22:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 100
+[29-Oct-2014 19:22:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 152
+[29-Oct-2014 19:22:48 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 205
+[29-Oct-2014 19:28:36 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 75
+[29-Oct-2014 19:29:47 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 75
+[29-Oct-2014 19:30:26 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 75
+[29-Oct-2014 19:34:28 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 75
+[29-Oct-2014 19:34:35 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 75
+[29-Oct-2014 19:44:20 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 75
+[30-Oct-2014 09:05:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 96
+[30-Oct-2014 09:05:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 148
+[30-Oct-2014 09:05:58 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 201
+[30-Oct-2014 09:06:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 96
+[30-Oct-2014 09:06:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 148
+[30-Oct-2014 09:06:33 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 201
+[30-Oct-2014 09:07:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 97
+[30-Oct-2014 09:07:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 149
+[30-Oct-2014 09:07:49 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 202
+[30-Oct-2014 09:08:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 97
+[30-Oct-2014 09:08:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 149
+[30-Oct-2014 09:08:46 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 202
+[30-Oct-2014 09:09:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 97
+[30-Oct-2014 09:09:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 149
+[30-Oct-2014 09:09:47 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 202
+[30-Oct-2014 09:10:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 97
+[30-Oct-2014 09:10:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 149
+[30-Oct-2014 09:16:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 97
+[30-Oct-2014 09:16:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 149
+[30-Oct-2014 10:45:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 123
+[30-Oct-2014 10:45:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 175
+[30-Oct-2014 10:46:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 125
+[30-Oct-2014 10:46:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 177
+[30-Oct-2014 10:47:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 125
+[30-Oct-2014 10:47:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 177
+[30-Oct-2014 10:50:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 111
+[30-Oct-2014 10:50:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 163
+[30-Oct-2014 10:50:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 111
+[30-Oct-2014 10:50:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 163
+[30-Oct-2014 10:53:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 119
+[30-Oct-2014 10:53:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 171
+[30-Oct-2014 10:56:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 10:56:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 10:57:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 10:57:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 10:58:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 10:58:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 10:58:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 10:58:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 10:59:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 10:59:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 10:59:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 10:59:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:00:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:00:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:01:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:01:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:03:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:03:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:03:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:03:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:04:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:04:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:05:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:05:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:06:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:06:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:07:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:07:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:08:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:08:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:09:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:09:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:09:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:09:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:10:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:10:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:11:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:11:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:12:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:12:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:12:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:12:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:17:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 121
+[30-Oct-2014 11:17:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[30-Oct-2014 11:17:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[30-Oct-2014 11:17:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[30-Oct-2014 11:17:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[30-Oct-2014 11:18:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 146
+[30-Oct-2014 11:18:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 146
+[30-Oct-2014 11:18:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 146
+[30-Oct-2014 11:18:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 146
+[30-Oct-2014 11:18:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 173
+[30-Oct-2014 11:23:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 163
+[30-Oct-2014 11:28:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 172
+[30-Oct-2014 11:30:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 174
+[30-Oct-2014 11:32:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 174
+[30-Oct-2014 11:33:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 174
+[30-Oct-2014 11:34:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 174
+[30-Oct-2014 11:35:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 164
+[30-Oct-2014 11:38:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 170
+[30-Oct-2014 11:41:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 170
+[30-Oct-2014 11:42:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 172
+[30-Oct-2014 11:43:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 174
+[30-Oct-2014 11:44:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 177
+[30-Oct-2014 11:45:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 174
+[30-Oct-2014 11:46:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 174
+[30-Oct-2014 11:46:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 174
+[30-Oct-2014 11:47:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 174
+[30-Oct-2014 11:48:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 174
+[30-Oct-2014 11:50:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 161
+[30-Oct-2014 11:50:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[30-Oct-2014 11:51:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[30-Oct-2014 11:52:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 179
+[30-Oct-2014 11:52:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 179
+[30-Oct-2014 11:54:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[31-Oct-2014 09:55:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[31-Oct-2014 09:56:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[31-Oct-2014 10:04:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[31-Oct-2014 10:40:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[31-Oct-2014 10:42:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[31-Oct-2014 12:53:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[01-Nov-2014 10:32:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[01-Nov-2014 11:17:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[02-Nov-2014 13:12:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[02-Nov-2014 13:12:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[02-Nov-2014 13:12:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[02-Nov-2014 13:12:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[02-Nov-2014 13:14:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[02-Nov-2014 13:20:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[02-Nov-2014 13:22:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[02-Nov-2014 13:25:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[02-Nov-2014 13:26:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 180
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:29:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[02-Nov-2014 13:32:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 188
+[03-Nov-2014 12:31:43 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 249
+[05-Nov-2014 11:02:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 94
+[05-Nov-2014 11:02:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 107
+[05-Nov-2014 11:02:08 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 138
+[05-Nov-2014 11:18:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 94
+[05-Nov-2014 11:18:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 107
+[05-Nov-2014 11:18:10 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 138
+[05-Nov-2014 11:19:19 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 37
+[05-Nov-2014 11:19:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 94
+[05-Nov-2014 11:19:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 107
+[05-Nov-2014 11:19:55 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 138
+[05-Nov-2014 11:20:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:20:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:20:42 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:22:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:22:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:22:32 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:24:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:24:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:24:01 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:25:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:25:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:25:05 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:25:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:25:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:25:50 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:26:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:26:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:26:53 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:27:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:27:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:27:48 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:39:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:39:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:39:02 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:39:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:39:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:39:30 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:42:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:42:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:42:32 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:43:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:43:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:43:00 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:43:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 95
+[05-Nov-2014 11:43:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 108
+[05-Nov-2014 11:43:49 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 139
+[05-Nov-2014 11:47:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 86
+[05-Nov-2014 11:47:05 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:50:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 86
+[05-Nov-2014 11:50:38 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:51:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 86
+[05-Nov-2014 11:51:28 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:51:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 86
+[05-Nov-2014 11:51:38 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:52:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 86
+[05-Nov-2014 11:52:07 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:54:23 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:54:23 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 93
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:55:24 America/Chicago] PHP Warning:  Illegal string offset 'path' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 99
+[05-Nov-2014 11:55:24 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:55:30 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:30 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:30 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:30 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:30 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:30 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:30 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:55:30 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_icon' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 90
+[05-Nov-2014 11:56:16 America/Chicago] PHP Warning:  Illegal string offset 'resource_description' in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 98
+[05-Nov-2014 11:56:16 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:57:05 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:58:04 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 117
+[05-Nov-2014 11:59:10 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 119
+[05-Nov-2014 12:01:48 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 120
+[05-Nov-2014 12:02:18 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 120
+[05-Nov-2014 12:02:55 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 120
+[05-Nov-2014 12:03:35 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 120
+[05-Nov-2014 12:05:52 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 122
+[05-Nov-2014 12:06:22 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 119
+[05-Nov-2014 12:07:43 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 119
+[05-Nov-2014 12:55:59 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 89
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:50:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:53:38 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 274
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 293
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 274
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 293
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 274
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 293
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 274
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 293
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 274
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 293
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 274
+[05-Nov-2014 14:56:13 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 293
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 14:57:54 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 294
+[05-Nov-2014 14:59:51 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:59:51 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:59:51 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:59:51 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:59:51 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 14:59:51 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:00:40 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 266
+[05-Nov-2014 15:01:20 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 270
+[05-Nov-2014 15:01:58 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 253
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 255
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 268
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 272
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 255
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 268
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 272
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 255
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 268
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 272
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 255
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 268
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 272
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 255
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 268
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 272
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 255
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 268
+[05-Nov-2014 15:02:22 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 272
+[05-Nov-2014 15:04:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$resource' (T_VARIABLE), expecting ')' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 182
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:04:27 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 258
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 271
+[05-Nov-2014 15:05:46 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 275
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 256
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 273
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 256
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 273
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 256
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 273
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 256
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 273
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 256
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 273
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 256
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:07:50 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 273
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 252
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'icon' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 265
+[05-Nov-2014 15:25:12 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/sbresnic/public_html/services/templates/moodle/session.php on line 269
+[05-Nov-2014 15:44:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 37
+[05-Nov-2014 15:44:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 84
+[05-Nov-2014 15:45:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 37
+[05-Nov-2014 15:45:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 84
+[06-Nov-2014 13:06:46 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[06-Nov-2014 13:06:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[06-Nov-2014 13:06:47 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[06-Nov-2014 13:06:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[06-Nov-2014 13:06:47 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[06-Nov-2014 13:06:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[06-Nov-2014 13:06:48 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[06-Nov-2014 13:06:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[06-Nov-2014 13:06:49 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-services/section.json?section=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 44
+[06-Nov-2014 13:06:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 47
+[06-Nov-2014 13:06:49 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[06-Nov-2014 13:06:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[07-Nov-2014 18:40:12 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[07-Nov-2014 18:40:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[07-Nov-2014 18:40:12 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[07-Nov-2014 18:40:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[07-Nov-2014 18:40:13 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[07-Nov-2014 18:40:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[07-Nov-2014 18:40:14 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[07-Nov-2014 18:40:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[07-Nov-2014 18:40:14 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-services/section.json?section=174): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 44
+[07-Nov-2014 18:40:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 47
+[07-Nov-2014 18:40:15 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[07-Nov-2014 18:40:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[07-Nov-2014 18:40:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 37
+[07-Nov-2014 18:40:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 71
+[07-Nov-2014 18:40:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 84
+[09-Nov-2014 07:58:14 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[09-Nov-2014 07:58:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[09-Nov-2014 07:58:15 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[09-Nov-2014 07:58:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[09-Nov-2014 07:58:15 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 07:58:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 07:58:16 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 07:58:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 07:58:17 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-services/section.json?section=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 44
+[09-Nov-2014 07:58:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 47
+[09-Nov-2014 07:58:17 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 07:58:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:18:17 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-services/section.json?section=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 44
+[09-Nov-2014 09:18:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 47
+[09-Nov-2014 09:18:18 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-resources-services/section-resources.json?section=277): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 90
+[09-Nov-2014 09:18:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 92
+[09-Nov-2014 09:18:19 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-resources-services/section-resources.json?section=278): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 90
+[09-Nov-2014 09:18:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 92
+[09-Nov-2014 09:18:19 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-resources-services/section-resources.json?section=279): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 90
+[09-Nov-2014 09:18:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 92
+[09-Nov-2014 09:18:20 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-resources-services/section-resources.json?section=280): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 90
+[09-Nov-2014 09:18:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 92
+[09-Nov-2014 09:18:21 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-resources-services/section-resources.json?section=281): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 90
+[09-Nov-2014 09:18:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 92
+[09-Nov-2014 09:20:59 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-services/section.json?section=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 44
+[09-Nov-2014 09:20:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 47
+[09-Nov-2014 09:21:52 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/section-services/section.json?section=277): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 44
+[09-Nov-2014 09:21:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 47
+[09-Nov-2014 09:21:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 37
+[09-Nov-2014 09:21:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 71
+[09-Nov-2014 09:21:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 84
+[14-Nov-2014 10:15:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 10
+[14-Nov-2014 10:15:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 41
+[14-Nov-2014 10:15:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 81
+[14-Nov-2014 10:16:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 10
+[14-Nov-2014 10:16:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 41
+[14-Nov-2014 10:16:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 81
+[19-Nov-2014 08:56:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 10
+[19-Nov-2014 08:56:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 41
+[19-Nov-2014 08:56:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 81
+[19-Nov-2014 10:06:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 10
+[19-Nov-2014 10:06:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 41
+[19-Nov-2014 10:06:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 81
+[20-Nov-2014 13:11:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 10
+[20-Nov-2014 13:11:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 41
+[20-Nov-2014 13:11:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/templates/moodle/section.php on line 81
+[21-Nov-2014 11:35:54 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/courses-services/session.json?course_id=80): failed to open stream: HTTP request failed! HTTP/1.1 404 Not found : Could not find resource session.
+ in /home4/sbresnic/public_html/services/Course.php on line 17

@@ -1,0 +1,284 @@
+[28-Oct-2014 10:17:20 America/Chicago] PHP Catchable fatal error:  Object of class Service could not be converted to string in /home4/sbresnic/public_html/services/service.php on line 34
+[28-Oct-2014 10:26:21 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 7
+[28-Oct-2014 11:01:36 America/Chicago] PHP Catchable fatal error:  Object of class Session could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 7
+[28-Oct-2014 11:01:51 America/Chicago] PHP Fatal error:  Cannot use object of type Session as array in /home4/sbresnic/public_html/services/test.php on line 7
+[28-Oct-2014 11:03:37 America/Chicago] PHP Fatal error:  Cannot use object of type Session as array in /home4/sbresnic/public_html/services/test.php on line 7
+[28-Oct-2014 12:23:20 America/Chicago] PHP Catchable fatal error:  Object of class Session could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 7
+[28-Oct-2014 12:26:49 America/Chicago] PHP Catchable fatal error:  Object of class Session could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 7
+[28-Oct-2014 12:28:45 America/Chicago] PHP Warning:  get_object_vars() expects parameter 1 to be object, boolean given in /home4/sbresnic/public_html/services/test.php on line 7
+[28-Oct-2014 12:29:53 America/Chicago] PHP Fatal error:  Cannot use object of type Session as array in /home4/sbresnic/public_html/services/test.php on line 7
+[28-Oct-2014 12:30:36 America/Chicago] PHP Warning:  Missing argument 1 for Session::__construct(), called in /home4/sbresnic/public_html/services/test.php on line 5 and defined in /home4/sbresnic/public_html/services/service.php on line 17
+[28-Oct-2014 12:33:07 America/Chicago] PHP Warning:  get_object_vars() expects parameter 1 to be object, array given in /home4/sbresnic/public_html/services/test.php on line 7
+[28-Oct-2014 12:34:34 America/Chicago] PHP Warning:  Missing argument 1 for Session::create(), called in /home4/sbresnic/public_html/services/test.php on line 7 and defined in /home4/sbresnic/public_html/services/service.php on line 17
+[28-Oct-2014 13:21:27 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-services/session.json?session=153): failed to open stream: Connection timed out in /home4/sbresnic/public_html/services/service.php on line 19
+[28-Oct-2014 15:25:18 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/Section.php on line 27
+[28-Oct-2014 15:25:18 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/Section.php on line 27
+[28-Oct-2014 15:25:18 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/Section.php on line 27
+[28-Oct-2014 15:25:18 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/sbresnic/public_html/services/Section.php on line 27
+[28-Oct-2014 15:37:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 27
+[28-Oct-2014 15:37:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 27
+[28-Oct-2014 15:37:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 27
+[28-Oct-2014 15:37:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 27
+[28-Oct-2014 20:07:13 America/Chicago] PHP Fatal error:  Function name must be a string in /home4/sbresnic/public_html/services/test.php on line 47
+[28-Oct-2014 20:07:45 America/Chicago] PHP Fatal error:  Call to a member function activities() on a non-object in /home4/sbresnic/public_html/services/test.php on line 47
+[28-Oct-2014 20:10:01 America/Chicago] PHP Fatal error:  Call to a member function activities() on a non-object in /home4/sbresnic/public_html/services/test.php on line 47
+[28-Oct-2014 20:15:29 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-activities-services/activities.json?section=174): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 40
+[28-Oct-2014 20:16:12 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-activities-services/activities.json?section=174): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 40
+[29-Oct-2014 09:00:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/test.php on line 42
+[29-Oct-2014 14:31:21 America/Chicago] PHP Fatal error:  Class 'Resource' not found in /home4/sbresnic/public_html/services/test.php on line 17
+[29-Oct-2014 19:35:31 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 39
+[29-Oct-2014 19:39:05 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 40
+[29-Oct-2014 19:41:15 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 40
+[29-Oct-2014 19:42:32 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/sbresnic/public_html/services/Session.php on line 32
+[29-Oct-2014 19:46:50 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 40
+[29-Oct-2014 19:47:32 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/Session.php on line 32
+[29-Oct-2014 19:48:09 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/Session.php on line 25
+[29-Oct-2014 19:53:22 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/Session.php on line 25
+[29-Oct-2014 19:53:47 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 40
+[30-Oct-2014 08:08:24 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 40
+[30-Oct-2014 08:22:46 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 40
+[30-Oct-2014 08:23:03 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 40
+[30-Oct-2014 08:26:08 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/sbresnic/public_html/services/test.php on line 40
+[30-Oct-2014 09:02:44 America/Chicago] PHP Fatal error:  Call to a member function create() on a non-object in /home4/sbresnic/public_html/services/Session.php on line 34
+[06-Nov-2014 13:06:53 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[06-Nov-2014 13:06:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[06-Nov-2014 13:06:54 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[06-Nov-2014 13:06:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[06-Nov-2014 13:06:54 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[06-Nov-2014 13:06:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[06-Nov-2014 13:06:55 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[06-Nov-2014 13:06:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[06-Nov-2014 13:06:55 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[06-Nov-2014 13:06:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[06-Nov-2014 13:08:53 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[06-Nov-2014 13:08:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[06-Nov-2014 13:08:53 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[06-Nov-2014 13:08:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[06-Nov-2014 13:08:54 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[06-Nov-2014 13:08:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[06-Nov-2014 13:08:55 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[06-Nov-2014 13:08:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[06-Nov-2014 13:08:55 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[06-Nov-2014 13:08:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[06-Nov-2014 13:10:22 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[06-Nov-2014 13:10:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[06-Nov-2014 13:10:23 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[06-Nov-2014 13:10:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[06-Nov-2014 13:10:24 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[06-Nov-2014 13:10:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[06-Nov-2014 13:10:25 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[06-Nov-2014 13:10:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[06-Nov-2014 13:10:26 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[06-Nov-2014 13:10:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[06-Nov-2014 13:11:25 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[06-Nov-2014 13:11:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[06-Nov-2014 13:11:26 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[06-Nov-2014 13:11:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[06-Nov-2014 13:11:26 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[06-Nov-2014 13:11:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[06-Nov-2014 13:11:27 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[06-Nov-2014 13:11:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[06-Nov-2014 13:11:27 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=326): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[06-Nov-2014 13:11:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 08:50:01 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[09-Nov-2014 08:50:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[09-Nov-2014 08:50:02 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[09-Nov-2014 08:50:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[09-Nov-2014 08:50:03 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 08:50:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 08:50:03 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 08:50:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 08:50:04 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 08:50:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 08:50:15 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[09-Nov-2014 08:50:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[09-Nov-2014 08:50:15 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[09-Nov-2014 08:50:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[09-Nov-2014 08:50:16 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 08:50:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 08:50:16 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 08:50:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 08:50:17 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 08:50:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 08:54:51 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[09-Nov-2014 08:54:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[09-Nov-2014 08:54:52 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[09-Nov-2014 08:54:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[09-Nov-2014 08:54:52 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 08:54:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 08:54:53 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 08:54:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 08:54:54 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 08:54:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 08:55:29 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[09-Nov-2014 08:55:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[09-Nov-2014 08:55:29 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[09-Nov-2014 08:55:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[09-Nov-2014 08:55:30 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 08:55:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 08:55:31 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 08:55:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 08:55:32 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 08:55:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 08:57:45 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[09-Nov-2014 08:57:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[09-Nov-2014 08:57:46 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[09-Nov-2014 08:57:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[09-Nov-2014 08:57:47 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 08:57:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 08:57:47 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 08:57:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 08:57:48 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 08:57:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 08:59:56 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[09-Nov-2014 08:59:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[09-Nov-2014 08:59:57 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/twitter-services/twitter.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not found : Could not find the controller.
+ in /home4/sbresnic/public_html/services/Twitter.php on line 18
+[09-Nov-2014 08:59:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Twitter.php on line 20
+[09-Nov-2014 08:59:58 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 08:59:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 08:59:58 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 08:59:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 08:59:59 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 08:59:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:01:11 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/brightcove-services/video.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Brightcove.php on line 15
+[09-Nov-2014 09:01:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Brightcove.php on line 17
+[09-Nov-2014 09:01:13 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 09:01:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 09:01:13 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 09:01:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 09:01:14 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 09:01:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:03:04 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 09:03:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 09:03:05 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 09:03:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 09:03:06 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 09:03:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:04:15 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 09:04:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 09:04:15 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 09:04:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 09:04:16 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 09:04:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:06:47 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 09:06:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 09:06:48 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 09:06:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 09:06:48 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 09:06:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:06:55 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 09:06:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 09:06:55 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 09:06:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 09:06:56 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 09:06:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:07:27 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 09:07:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 09:07:28 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 09:07:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 09:07:29 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 09:07:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:09:33 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-essential-questions/essential-questions.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 403 : Access denied for user anonymous
+ in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 12
+[09-Nov-2014 09:09:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/EssentialQuestions.php on line 15
+[09-Nov-2014 09:09:33 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 09:09:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 09:09:34 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 09:09:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:11:43 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/rest-section-services/section.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 20
+[09-Nov-2014 09:11:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 23
+[09-Nov-2014 09:11:44 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 09:11:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:13:47 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-section-activities/activities.json?section=174): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 68
+[09-Nov-2014 09:13:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 71
+[09-Nov-2014 09:13:48 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-section-activities/activities.json?section=175): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 68
+[09-Nov-2014 09:13:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 71
+[09-Nov-2014 09:13:49 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-section-activities/activities.json?section=176): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 68
+[09-Nov-2014 09:13:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 71
+[09-Nov-2014 09:13:50 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/services-section-activities/activities.json?section=177): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Section.php on line 68
+[09-Nov-2014 09:13:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Section.php on line 71
+[09-Nov-2014 09:13:51 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 09:13:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21
+[09-Nov-2014 09:15:44 America/Chicago] PHP Warning:  file_get_contents(http://coursebuilder.facinghistory.org/mockingbird/session-additional-resources/resources.json?session=153): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/sbresnic/public_html/services/Resource.php on line 19
+[09-Nov-2014 09:15:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sbresnic/public_html/services/Resource.php on line 21

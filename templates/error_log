@@ -1,0 +1,2 @@
+[29-Oct-2014 19:44:11 America/Chicago] PHP Warning:  require_once(../../Session.php): failed to open stream: No such file or directory in /home4/sbresnic/public_html/services/templates/variables.php on line 2
+[29-Oct-2014 19:44:11 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../Session.php' (include_path='.:/opt/php54/lib/php') in /home4/sbresnic/public_html/services/templates/variables.php on line 2
